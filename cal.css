@@ -1,0 +1,22 @@
+
+.d{
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 100px;
+    width: 400px;
+    padding: 20px 0px;
+    background-color: gray;
+}
+.d h3{
+    margin-top: 5px;
+}
+#input
+{
+    height: 50px;
+}
+.body button{
+    width: 40px;
+    font-size: 20px;
+    text-decoration: none;
+}
